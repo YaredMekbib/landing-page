@@ -1,0 +1,32 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    height: 100vh;
+}
+
+div.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1b75be;
+}
+
+.background-one-content {
+    display: flex;
+    flex-direction: column;
+    background-color: #1b75be;
+}
+
+ul.left.link{
+    list-style: none;
+}
+
+ul.right.links {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    gap: 10px;
+}
+
+p {
+    width: 600px;
+}
