@@ -60,6 +60,8 @@ h2 {
 div.boxes {
     display:flex;
     flex-direction:row;
+    justify-content: center;
+    gap: 50px;
 }
 
 div.boxone, div.boxtwo, div.boxthree, div.boxfour {
