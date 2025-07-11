@@ -70,3 +70,11 @@ div.boxone, div.boxtwo, div.boxthree, div.boxfour {
     border-radius: 20px;
     background-color: #1b75be;
 }
+
+div.text {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 150px;
+    margin-left: 15px;
+}
