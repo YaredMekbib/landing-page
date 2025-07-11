@@ -46,6 +46,8 @@ div.button {
     margin-left: 40px;
 }
 
-#placeholder {
-    margin-left: 700px;
+img {
+    position: absolute;
+    top: 100px;
+    left: 900px;
 }
