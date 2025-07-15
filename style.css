@@ -78,3 +78,61 @@ div.text {
     padding-top: 150px;
     margin-left: 15px;
 }
+
+div.background-three-content {
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    background-color: #808080;
+    margin-top: 250px;
+    padding-bottom: 250px;
+}
+
+h4 {
+    text-align:center;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h5 {
+    position: absolute;
+    top: 1200px;
+    right: 400px;
+    font-size: 16px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+div.c2a {
+    width: 1255px;
+    height: 150px;
+    padding-top: 100px;
+    background-color: white;
+}
+
+div.button-sign {
+    position: absolute;
+    left: 900px;
+    top: 1650px;
+}
+
+div.rectangular {
+    width: 750px;
+    height: 120px;
+    background-color: #1b75be;
+    margin-left: 250px;
+
+}
+
+div.footer {
+    background-color: navy;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
